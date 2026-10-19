@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 
 const links = [
-  { to: "/", label: "Dashboard", icon: LayoutDashboard },
+  { to: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
   { to: "/employees", label: "Employees", icon: Users },
   { to: "/compensation", label: "Compensation", icon: Wallet },
   { to: "/departments", label: "Departments", icon: Building2 },
